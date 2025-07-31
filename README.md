@@ -8,7 +8,6 @@ I'm a Robotics and AI Engineer with 5+ years of experience developing software f
 - Data analysis (Python)
 
 #### 🧠 Featured Projects:
-- `llm-human-feedback-coding-eval`: Evaluation suite for LLM coding tasks
 - `amcl_hybrid`: Indoor robot localization with AMCL + sensor fusion
 - `rodaad`: ROS nodes to transform data available in public robotic datasets to ROS compatible format
 
