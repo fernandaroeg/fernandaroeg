@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I’m Fernanda 👋
+I'm a Robotics and AI Engineer with 5+ years of experience developing software for localization systems, sensor fusion, and AI model alignment. My current focus is on human feedback data for LLMs — designing prompts, annotating responses, and evaluating AI behavior in complex technical domains.
 
-<!--
-**fernandaroeg/fernandaroeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌟 What I work on:
+- Large Language Model alignment via RLHF and prompt design
+- Robotics software (ROS, localization, sensor fusion)
+- Embedded algorithms (C/C++)
+- Data analysis (Python)
 
-Here are some ideas to get you started:
+#### 🧠 Featured Projects:
+- `llm-human-feedback-coding-eval`: Evaluation suite for LLM coding tasks
+- `amcl_hybrid`: Indoor robot localization with AMCL + sensor fusion
+- `rodaad`: ROS nodes to transform data available in public robotic datasets to ROS compatible format
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s connect!
